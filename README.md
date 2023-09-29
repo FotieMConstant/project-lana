@@ -3,7 +3,7 @@
 A tool for generating well polished and developer friendly API documentation(openAPI spec 3.0.0) directly from source code with LLM
 
 ##🚨Important Note:
- This project represents the practical application of our extensive research studies. It is essential to emphasize that this is a research project and is expressly **NOT** intended for use in production environments. The focus of this endeavor is to explore, experiment, and advance knowledge within a controlled research context. We appreciate your understanding and cooperation in this regard.
+This project represents the practical application of our extensive research studies. It is essential to emphasize that this is a research project and is expressly **NOT** intended for use in production environments. The focus of this endeavor is to explore, experiment, and advance knowledge within a controlled research context. We appreciate your understanding and cooperation in this regard.
 
 
 ## Configuration
