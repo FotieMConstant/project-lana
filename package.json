@@ -2,6 +2,7 @@
   "name": "project-lana",
   "displayName": "project-lana",
   "description": "Generate API documentation from source code with LLM",
+  "publisher": "FotieMConstant",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
