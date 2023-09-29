@@ -7,11 +7,9 @@ This project represents the practical application of our extensive research stud
 
 
 ## Configuration
-Create a `.env` file in project root directory and add your openAI key gotten from [openai](https://openai.com/). 
+- Create a `.env` file in project root directory and add your openAI key gotten from [openai](https://openai.com/). Should be in the format: `OPENAI_API_KEY=your_key_here`
 
-Should be in the format: `OPENAI_API_KEY=your_key_here`
-
-Setup `lana.config.ts` file in root directory(N/A for now)
+- Setup `lana.config.ts` file in root directory(N/A for now)
 with the follwing config. this is basic information about your api servers etc
 ```ts
 // lana.config.ts
