@@ -49,6 +49,12 @@ const lanaConfig = {
 2.  Run extention with command '`F5`' on windows/linux and '`⇧⌘P`' on MacOS
 3.  Will prompt to select file with endpoints declarations(interface) select file and hit `Enter`
 4.  OpenAPI specification file(`openapi-spec.yaml`) will be created in `root` directory of your workspace with the file containing the api docs in `.yaml` format(this will then be rendered to html page later down the line)
+
+**An example output from gpt-3.5-turbo-instruct model can be found [here](/openapi-spec-sample.yaml)**
+
+### Limitations:
+- Max token for response is at: `max_tokens: 2097`
+- Hallucinations: should train model on openAPI 3.0.0 spacifications for better results
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
